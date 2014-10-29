@@ -1,0 +1,5 @@
+<!--content-->
+<h4><a style="width:150px;" class="button gray" href = "categories.php">Категорії </a><a style="width:200px;" class="button gray" href="add_cat.php">Додати категорію</a><a style="width:200px;" class="button gray" href="delete_cat.php">Видалити категорію</a><a style="width:150px;" class="button gray" href="update_cat.php">Редагувати категорію</a></h4>
+<h4><a style="width:125px;" class="button gray" href="goods.php">Товари</a><a style="width:125px;" class="button gray" href="add_goods.php">Додати товари</a><a style="width:125px;" class="button gray" href="delete_goods.php">Видалити товари</a><a style="width:125px;" class="button gray" href="update_goods.php">Редагувати товари </a></h4>
+<h4><a class="button green" href="show_orders.php">Перевірити замовлення</a></h4>
+ <!--content-->
